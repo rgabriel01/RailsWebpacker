@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# RailsWebpacker
+An initial crack at trying the updates of Rails 5.1
